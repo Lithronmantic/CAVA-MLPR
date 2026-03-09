@@ -10,7 +10,7 @@ This project is used for industrial welding defect detection with multimodal sig
 ## Overall Framework
 
 <p align="center">
-  <img src="assets/framework_overview.png" alt="Overall framework of the multimodal welding defect detection project" width="900"/>
+  <img src="assets/Fig.2.png" alt="Overall framework of the multimodal welding defect detection project" width="900"/>
 </p>
 
 <p align="center">
