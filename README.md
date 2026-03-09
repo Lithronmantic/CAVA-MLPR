@@ -7,7 +7,15 @@ This project is used for industrial welding defect detection with multimodal sig
 - model training for defect classification/detection,
 - semi-supervised training with labeled and unlabeled samples,
 - evaluation and reproducibility reporting.
+## Overall Framework
 
+<p align="center">
+  <img src="assets/framework_overview.png" alt="Overall framework of the multimodal welding defect detection project" width="900"/>
+</p>
+
+<p align="center">
+  <em>Figure 1. Overall framework of the project. The framework integrates multimodal feature learning, causal alignment, semi-supervised optimization, meta-learning-based pseudo-label reweighting, and sequence-level aggregation for robust welding defect detection.</em>
+</p>
 ## How to Run
 
 This section is for internal/research use in the current project workspace.
